@@ -1,0 +1,18 @@
+.nav-link:hover {
+  color: red;
+}
+
+.carousel-item img {
+  filter: grayscale(100%);
+}
+
+.carousel-item {
+  height: 65vh;
+}
+
+.fwidgets {
+  padding: 40px 0px;
+  background: #ed564b;
+  border-top: 5px solid #f96b61;
+  border-bottom: 5px solid #f96b61;
+}
